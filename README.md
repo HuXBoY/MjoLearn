@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">What is this project even about ?<br>( You can read this in the website itself too: https://mjoln.ir )<br><br>I've Always had problems finding all the notes i've taken in classes. So one day I had the brilliant idea of making a website to keep all my notes in.<br>Then it became something even more! I wanted to make it public so everyone could use the content. Just becasue I knew how hard and annoying it was to find a note from 2 month ago. So the solution to my problem suddenly became a full-on Learning platform.</p>
+<p align="left">What is this project even about ?<br>( You can read this in the website itself too: https://mjoln.ir )<br><br>I've Always had problems finding all the notes i've taken in classes. So one day I had the brilliant idea of making a website to keep all my notes in.<br>Then it became something even more! I wanted to make it public so everyone could use the content. Just becasue I knew how hard and annoying it was to find a note from 2 month ago. So the solution to my problem suddenly became a full-on Learning platform.<br><br>So this is a *Persian/فارسی* Platform for Learning all the Computer Science essentials. Mainly at IAUN.</p>
 
 ###
 
